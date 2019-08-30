@@ -6,9 +6,9 @@ technology used on that project HTML,CSS,Bootstrap,Laravel.
 
 member:
 
-1.Md.zahid rahman.
+1. Susmoy Bhattacharjee.
 
-2.susmoy Bhattarjee.
+2. Md.zahid rahman.
 
 Project supervisor:
 
